@@ -1,3 +1,3 @@
-# Derslerim
+# speCtraEdu
 
-Bu site merkezi ders içerikleri için kullanılacaktır.
+Güz ve Bahar Yarıyılında açılan ders bilgileri buradadır.
