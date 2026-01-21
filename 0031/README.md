@@ -1,1 +1,1 @@
-# 0031 Ders İçeriği
+# 0034 Ders İçeriği
