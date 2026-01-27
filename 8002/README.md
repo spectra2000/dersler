@@ -1,4 +1,4 @@
-## 📅 8002 İNTERNET TEKNOLOJİLERİ VE WEB PROGRAMLAMA DERS PLANI
+## 📅 İNTERNET TEKNOLOJİLERİ VE WEB PROGRAMLAMA DERS PLANI
 
 - [Week 01 – Giriş ve Web’e Genel Bakış](weeks/week01/)
 - [Week 02 – İnternet & Web Temelleri](weeks/week02/)
