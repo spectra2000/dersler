@@ -44,4 +44,10 @@ ve tarayıcı–sunucu arasındaki iletişimi kavramsal düzeyde açıklayabilec
 
 <h3>Kısa Sınav (Quiz)</h3>
 <ul>
-    <li>Quiz 3: İnternet, Client–Server ve HTTP Temel Kavramlar</
+    <li>Quiz 3: İnternet, Client–Server ve HTTP Temel Kavramlar</li>
+</ul>
+
+<h3>Canlı Ders</h3>
+<ul>
+    <li>HTTP Request–Response yapısının canlı ders üzerinden örneklerle anlatılması</li>
+</ul>
