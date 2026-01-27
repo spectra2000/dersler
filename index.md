@@ -1,6 +1,11 @@
 # 📚 speCtraEdu
 
 Bu site, Güz/Bahar/Yaz yarıyıllarında açılan derslerin planlarını içerir.
+<script>
+  if (sessionStorage.getItem("auth") !== "ok") {
+    window.location.href = "login.html";
+  }
+</script>
 
 ## 🎓 speCtraEdu
 - [BS0034-İşletim Sistemleri](0034/)
