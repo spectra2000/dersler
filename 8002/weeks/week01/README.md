@@ -26,6 +26,15 @@ web tabanlı sistemlerin nasıl çalıştığına dair genel bir bakış kazanac
     <li>Internet ve WWW Arasındaki Farklar</li>
 </ul>
 
+<h3>Ders Notları</h3>
+<ul>
+    <li>
+        <a href="lecture-notes.md">
+            Hafta 1 – İnternet Teknolojileri ve Web’e Genel Bakış (Ders Notu)
+        </a>
+    </li>
+</ul>
+
 <h3>Uygulamalar</h3>
 <ul>
     <li>Web Tarayıcıları ve Geliştirici Araçları İncelemesi</li>
